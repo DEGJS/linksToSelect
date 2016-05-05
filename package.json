@@ -1,0 +1,8 @@
+{
+	"name": "linksToSelect",
+	"main": "linksToSelect.js",
+	"jspm": {
+  		"format": "es6",
+  		"registry": "jspm"
+  	}
+}
