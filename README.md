@@ -1,5 +1,5 @@
 # linksToSelect
-A plugin for highlighting table cells, columns and rows on hover.
+Module for turning a list of links into a navigational select menu.
 
 ## Sample Usage
 ``` javascript
