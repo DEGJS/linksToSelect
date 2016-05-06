@@ -55,7 +55,7 @@ let linksToSelect = function(element, options) {
 
     function onSelectChange(e) {
         if (settings.onSelectChangeCallback !== null) {
-            settings.onSelectChangeCallback();
+            settings.onSelectChangeCallback(e);
         } else {
             window.location = e.target.value;
         }
