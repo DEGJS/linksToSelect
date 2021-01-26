@@ -1,6 +1,8 @@
 # linksToSelect
 Module for turning a list of links into a navigational select menu.
 
+**THIS REPOSITORY IS NO LONGER MAINTAINED**
+
 ## Sample Usage
 ``` javascript
 let linksToSelectInst = linksToSelect(element, linksToSelectOptions);
